@@ -1,6 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
-
+>Melanoma Detection Using CNN
 
 ## Table of Contents
 * [General Info](#general-information)
